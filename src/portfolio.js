@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Aspiring Software Developer 🚀 pursuing an MSc in Software Development at the University of Glasgow. Passionate about building web applications and making the transition from a background in linguistics."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/10c5TNf6Yg_wlLYCNXI8r5Rxsmz23v79i/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "/Emerentia_Novena_CV.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
