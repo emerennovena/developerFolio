@@ -1,21 +1,21 @@
 {
-  "short_name": "DeveloperFolio",
-  "name": "DeveloperFolio",
+  "short_name": "Emerentia",
+  "name": "Emerentia Novena Portfolio",
   "icons": [
     {
-      "src": "/favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
     },
     {
-      "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
     },
     {
-      "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
-      "type": "image/png",
-      "sizes": "384x384"
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
