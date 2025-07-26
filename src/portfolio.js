@@ -45,12 +45,15 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Aspiring software developer passionate about building web apps, learning new tech, and solving real-world problems through code.",
+  subTitle:
+    "Aspiring software developer passionate about building web apps, learning new tech, and solving real-world problems through code.",
   skills: [
-    emoji("⚡ Building full-stack web apps using Django, REST APIs, and JavaScript"),
+    emoji(
+      "⚡ Building full-stack web apps using Django, REST APIs, and JavaScript"
+    ),
     emoji("⚡ Creating responsive frontends with HTML, CSS, and Bootstrap"),
     emoji("⚡ Collaborating in small teams on academic software projects"),
-    emoji("⚡ Continuously learning new technologies and frameworks"),
+    emoji("⚡ Continuously learning new technologies and frameworks")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -123,8 +126,10 @@ const educationInfo = {
       subHeader: "Bachelor of Arts in Foreign Languages and Literature",
       duration: "September 2020 - June 2024",
       desc: "Awarded Academic Excellence Award",
-      descBullets: ["Ranked 2nd overall in the program, and 1st in my class.",
-                    "Received scholarship for 4 consecutive years."]
+      descBullets: [
+        "Ranked 2nd overall in the program, and 1st in my class.",
+        "Received scholarship for 4 consecutive years."
+      ]
     }
   ]
 };
@@ -361,7 +366,8 @@ const resumeSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+447787600904",
   email_address: "emerennovena@gmail.com"
 };

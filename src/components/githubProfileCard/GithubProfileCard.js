@@ -21,10 +21,12 @@ export default function GithubProfileCard({prof}) {
             </div>
 
             <div className="contact-text-div">
-
-              <a className="contact-detail-email" href={"mailto:" + contactInfo.email_address}>
+              <a
+                className="contact-detail-email"
+                href={"mailto:" + contactInfo.email_address}
+              >
                 {contactInfo.email_address}
-               </a>
+              </a>
             </div>
 
             <div className="opp-div">
