@@ -176,7 +176,7 @@ const workExperiences = {
       role: "Indonesian Language Instructor",
       company: "Radius Asia",
       companylogo: require("./assets/images/radiusLogo.png"),
-      date: "Sep 2022 – Jul 2024",
+      date: "Sep 2022 – Jun 2024",
       desc: "Taught Indonesian to Taiwanese learners using a structured curriculum.",
       descBullets: [
         "Strengthened intercultural collaboration by teaching in a Chinese-speaking environment.",
@@ -187,7 +187,7 @@ const workExperiences = {
       role: "Office Assistant",
       company: "Feng Chia University",
       companylogo: require("./assets/images/fengchiaLogo.png"),
-      date: "Sep 2021 – Jul 2024",
+      date: "Sep 2021 – Jun 2024",
       desc: "Worked in a multilingual environment supporting academic departments.",
       descBullets: [
         "Strengthened communication skills by interacting with students and staff in Chinese.",
