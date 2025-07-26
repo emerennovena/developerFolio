@@ -4,7 +4,6 @@
 
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
-import resume from "../greeting/Emerentia_Novena_CV.pdf"
 
 // Splash Screen
 
@@ -26,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Aspiring Software Developer 🚀 pursuing an MSc in Software Development at the University of Glasgow. Passionate about building web applications and making the transition from a background in linguistics."
   ),
-  resumeLink: resume, // Set to empty to hide the button
+  resumeLink: "/Emerentia_Novena_CV.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
