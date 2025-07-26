@@ -173,7 +173,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Indonesian Language Instructor",
+      role: "Language Instructor",
       company: "Radius Asia",
       companylogo: require("./assets/images/radiusLogo.png"),
       date: "Sep 2022 – Jun 2024",
