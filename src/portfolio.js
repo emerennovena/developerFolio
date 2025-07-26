@@ -111,7 +111,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Glasgow",
-      logo: require("./assets/images/glasgowLogo.jpg"),
+      logo: require("./assets/images/glasgowLogo.png"),
       subHeader: "Master of Science in Software Development",
       duration: "September 2024 - September 2025",
       desc: "Received International Leadership Scholarship.",
@@ -163,7 +163,7 @@ const workExperiences = {
     {
       role: "Student Software Developer",
       company: "University of Glasgow",
-      companylogo: require("./assets/images/glasgowLogo.jpg"),
+      companylogo: require("./assets/images/glasgowLogo.png"),
       date: "Sep 2024 – Sep 2025",
       desc: "Focused on practical learning through real-world web development projects.",
       descBullets: [
@@ -175,7 +175,7 @@ const workExperiences = {
     {
       role: "Indonesian Language Instructor",
       company: "Radius Asia",
-      companylogo: require("./assets/images/radiusLogo.jpg"),
+      companylogo: require("./assets/images/radiusLogo.png"),
       date: "Sep 2022 – Jul 2024",
       desc: "Taught Indonesian to Taiwanese learners using a structured curriculum.",
       descBullets: [
