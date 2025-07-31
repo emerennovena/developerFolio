@@ -182,17 +182,6 @@ const workExperiences = {
         "Strengthened intercultural collaboration by teaching in a Chinese-speaking environment.",
         "Improved ability to explain complex grammar clearly in Indonesian, English and Chinese."
       ]
-    },
-    {
-      role: "Office Assistant",
-      company: "Feng Chia University",
-      companylogo: require("./assets/images/fengchiaLogo.png"),
-      date: "Sep 2021 – Jun 2024",
-      desc: "Worked in a multilingual environment supporting academic departments.",
-      descBullets: [
-        "Strengthened communication skills by interacting with students and staff in Chinese.",
-        "Adapted effectively to cultural and language differences in a fast-paced, multilingual academic setting."
-      ]
     }
   ]
 };
