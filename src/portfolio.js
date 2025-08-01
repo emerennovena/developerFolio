@@ -24,7 +24,7 @@ const greeting = {
   username: "Emerentia Novena",
   title: "Hi, I'm Emerentia",
   subTitle: emoji(
-    "🚀 Former Language Teacher transitioning into Software Development. Currently pursuing an MSc in Software Development, with a strong foundation in languages, business, and full-stack web development."
+    "MSc Software Development Student 🚀, with a strong foundation in languages, business, and full-stack web development."
   ),
   resumeLink: resumePDF, // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
