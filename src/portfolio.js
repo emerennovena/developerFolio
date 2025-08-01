@@ -24,7 +24,7 @@ const greeting = {
   username: "Emerentia Novena",
   title: "Hi, I'm Emerentia",
   subTitle: emoji(
-    "Aspiring Software Developer 🚀 studying MSc Software Development and transitioning from a language background."
+    "🚀 Former Language Teacher transitioning into Software Development. Currently pursuing an MSc in Software Development, with a strong foundation in languages, business, and full-stack web development."
   ),
   resumeLink: resumePDF, // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -130,6 +130,16 @@ const educationInfo = {
         "Ranked 2nd overall in the program, and 1st in my class.",
         "Received scholarship for 4 consecutive years."
       ]
+    },
+        {
+      schoolName: "Humber College",
+      logo: require("./assets/images/humber.png"),
+      subHeader: "Diploma in Business Marketing",
+      duration: "January 2019 - April 2020",
+      desc: "Admitted at age 16 as the youngest in the program cohort.",
+      descBullets: [
+        "Built a foundation in business strategy, market analysis, and intercultural communication.",
+      ]
     }
   ]
 };
@@ -158,7 +168,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Student Software Developer",
