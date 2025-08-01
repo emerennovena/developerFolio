@@ -46,11 +46,9 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "I am passionate about building web apps, learning new tech, and solving real-world problems through code.",
+    "I am passionate about learning new tech and solving real-world problems through code.",
   skills: [
-    emoji(
-      "⚡ Building full-stack web apps using Django, REST APIs, and JavaScript"
-    ),
+    emoji("⚡ Building full-stack web apps using Django, REST APIs, and JavaScript"),
     emoji("⚡ Creating responsive frontends with HTML, CSS, and Bootstrap"),
     emoji("⚡ Collaborating in small teams on academic software projects"),
     emoji("⚡ Continuously learning new technologies and frameworks")
@@ -95,10 +93,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
     }
   ],
   display: true // Set false to hide this section, defaults to true
